@@ -1,0 +1,43 @@
+'Window': {
+  title: 'Parallax'
+}
+
+'#parallaxImage': {
+  image: '/images/phone.jpg',
+  height: Ti.UI.SIZE,
+  horizontalMotionEffect: {
+    min: -50,
+    max: 50
+  },
+  verticalMotionEffect: {
+    min: -50,
+    max: 50
+  },
+  // Position the photo with negatives so
+  // parallax doesn't show white borders 
+  left: -50,
+  right: -50
+}
+
+'Label': {
+  font: {
+    fontSize: 14,
+    fontWeight: 'bold'
+  },
+  color: '#ffffff',
+  width: Ti.UI.FILL,
+  textAlign: Ti.UI.TEXT_ALIGNMENT_CENTER,
+  left: 20,
+  right: 20
+}
+
+'#instructions': {
+  text: 'Move your device to make this image have parallax. This doesn\'t work on simulator',
+  top: 100
+}
+
+
+'#credit': {
+  text: 'Photo by Yiran Ding on Unsplash',
+  bottom: 50
+}

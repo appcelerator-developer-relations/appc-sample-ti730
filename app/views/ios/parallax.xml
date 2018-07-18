@@ -1,0 +1,11 @@
+<Alloy>
+	<Window>
+	  <!-- We're using a ScrollView here with scrolling disabled to give 
+	       more flexibilitywith absolute positioning -->
+	  <ScrollView scrollingEnabled="false">
+    	  <ImageView id="parallaxImage" />
+	  </ScrollView>
+    <Label id="instructions" />
+    <Label id="credit" />
+	</Window>
+</Alloy>

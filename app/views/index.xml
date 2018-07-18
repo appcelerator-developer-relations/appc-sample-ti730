@@ -1,0 +1,11 @@
+<Alloy>
+  <NavigationWindow id="navWin">
+    <Window class="container">
+      <ListView onItemclick="handleItemClick">
+        <ListSection platform="ios">
+          <ListItem title="Parallax" controller="parallax"></ListItem>
+        </ListSection>
+      </ListView>
+    </Window>
+  </NavigationWindow>
+</Alloy>
