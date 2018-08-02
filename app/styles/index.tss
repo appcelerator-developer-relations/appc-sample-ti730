@@ -1,0 +1,7 @@
+'Window': {
+  title: '7.3.0 Samples'
+}
+
+"ListItem[plaform=android]":{
+  color: '#000000'
+}

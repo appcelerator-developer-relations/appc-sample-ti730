@@ -1,0 +1,35 @@
+'#masksWrapper': {
+  layout: 'vertical'
+}
+
+"MaskedImage": {
+  height: 200,
+  width: 200,
+  top: 20,
+  image: '/images/AppcLogo.png'
+}
+
+'#circleSolid': {
+  mask: '/images/MaskCircleSolid.png',
+  mode: Ti.UI.BLEND_MODE_SOURCE_IN
+}
+
+'#circleGradient': {
+  mask: '/images/MaskCircleGradient.png',
+  mode: Ti.UI.BLEND_MODE_SOURCE_IN
+}
+
+'#circleGradientInverse': {
+  mask: '/images/MaskCircleGradient.png',
+  mode: Ti.UI.BLEND_MODE_SOURCE_OUT
+}
+
+'#horizontalGradient': {
+  mask: '/images/MaskHorizontalGradient.png',
+  mode: Ti.UI.BLEND_MODE_SOURCE_IN
+}
+
+'#verticalGradient': {
+  mask: '/images/MaskVerticalGradient.png',
+  mode: Ti.UI.BLEND_MODE_SOURCE_IN
+}

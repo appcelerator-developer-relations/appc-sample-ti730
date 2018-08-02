@@ -1,0 +1,35 @@
+'Window': {
+  homeIndicatorAutoHidden: false,
+  layout: 'vertical'
+}
+
+'#toggleView': {
+  title: 'Toggle home indicator',
+  top: 100
+}
+
+'#status': {
+  font: {
+    fontStyle: 'bold',
+    fontSize: 20
+  },
+  text: 'Status:',
+  top: 20
+}
+
+'#statusIndicator': {
+  text: 'visible',
+  font: {
+    fontSize: 18
+  },
+  top: 10
+}
+
+'#notice': {
+  font: {
+    fontStyle: 'italic',
+    fontSize: 13
+  },
+  text: 'note: hiding indicator can take some time',
+  top: 20
+}

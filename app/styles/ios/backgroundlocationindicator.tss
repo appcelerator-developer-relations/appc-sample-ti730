@@ -1,0 +1,53 @@
+'Label': {
+  left: 20,
+  right: 20,
+  textAlign: Ti.UI.TEXT_ALIGNMENT_CENTER
+}
+
+'#permissionExplanation': {
+  top: 20,
+  text: 'To be able to demonstrate this feature you need to access this app "always" location permission. Clicking the button below will request this.\n\nAllowing only "when in use" will not result in this feature working.'
+}
+'.wrapper': {
+  layout: 'vertical',
+  height: Ti.UI.SIZE,
+  top: 0
+}
+
+'#statusIndicator': {
+  text: 'not visible'
+}
+
+'#control': {
+  visible: false
+}
+
+'#requestPermission': {
+  title: 'Request Location Permission',
+  top: 20,
+  font: {
+    fontSize: 20
+  }
+}
+
+'#toggle': {
+  title: 'Toggle',
+  top: 40,
+  font: {
+    fontSize: 22
+  }
+}
+
+'#status': {
+  text: "Clicking the toggle button will either make the indicator visible or not visible",
+  top: 20
+}
+
+'#notice': {
+  text: "To see the effect, close the app. When indicator is visible you will see a blue bar on top of the screen. If it is not visible you won't see this.",
+  top: 30,
+  font: {
+    fontStyle: 'italic',
+    fontSize: 14
+  }
+}

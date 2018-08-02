@@ -1,0 +1,7 @@
+'#notice': {
+  text: "Notifications framework require their own sample app!\nCheck it out at https://github.com/appcelerator-developer-relations/appc-sample-ios-push-notifications",
+  left: 20,
+  right: 20
+}
+
+// Nothing to see here :)

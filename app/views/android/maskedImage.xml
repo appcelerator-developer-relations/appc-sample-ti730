@@ -1,0 +1,11 @@
+<Alloy>
+	<Window>
+	  <ScrollView id="masksWrapper">
+	    <MaskedImage id="circleSolid" />
+      <MaskedImage id="circleGradient" />
+      <MaskedImage id="circleGradientInverse" />
+      <MaskedImage id="horizontalGradient" />
+      <MaskedImage id="verticalGradient" />
+	  </ScrollView>
+	</Window>
+</Alloy>

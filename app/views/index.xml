@@ -1,9 +1,15 @@
 <Alloy>
-  <NavigationWindow id="navWin">
-    <Window class="container">
+  <NavigationWindow id="navWin" module="xp.ui">
+    <Window id="container">
       <ListView onItemclick="handleItemClick">
-        <ListSection platform="ios">
-          <ListItem title="Parallax" controller="parallax"></ListItem>
+        <ListSection>
+          <ListItem title="Parallax" controller="parallax" platform="ios" />
+          <ListItem title="iPhone X HomeIndicator" controller="iphonexhomeindicator" if="Alloy.Globals.isIphoneX" />
+          <ListItem title="Run on iPhoneX for homeindicator example" if="!Alloy.Globals.isIphoneX" platform="ios" />
+          <ListItem title="Background Location Indicator" controller="backgroundlocationindicator" platform="ios"  />
+          <ListItem title="Notification Framework" controller="notificationframework" platform="ios" />
+          <ListItem title="Masked Image" controller="maskedImage" platform="android" />
+          <ListItem title="Webview Zoom" controller="webviewzoom"  />
         </ListSection>
       </ListView>
     </Window>

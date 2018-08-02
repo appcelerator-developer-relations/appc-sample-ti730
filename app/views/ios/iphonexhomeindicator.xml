@@ -1,0 +1,8 @@
+<Alloy>
+	<Window>
+	  <Button id="toggleView" onClick="toggleIndicator" />
+    <Label id="status" />
+    <Label id="statusIndicator" />
+	  <Label id="notice" />
+	</Window>
+</Alloy>

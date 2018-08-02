@@ -1,0 +1,14 @@
+<Alloy>
+  <Window onClose="stopLocationMonitor">
+    <View id="control" class="wrapper">
+      <Label id="status" />
+      <Button id="toggle" onClick="toggleIndicator" />
+      <Label id="statusIndicator" />
+      <Label id="notice" />
+    </View>
+    <View id="permission" class="wrapper">
+      <Label id="permissionExplanation" />
+      <Button id="requestPermission" onClick="requestPermission" />
+    </View>
+  </Window>
+</Alloy>

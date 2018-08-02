@@ -1,0 +1,7 @@
+<Alloy>
+	<Window>
+	  <WebView id"zoomable">
+	    
+	  </WebView>
+	</Window>
+</Alloy>
