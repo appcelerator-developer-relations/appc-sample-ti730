@@ -1,5 +1,4 @@
 
-
-setTimeout(function(){
-  $.zoomable.zoomLevel = 2;
-},2500);
+setTimeout(function () {
+	$.zoomable.zoomLevel = 2;
+}, 2500);

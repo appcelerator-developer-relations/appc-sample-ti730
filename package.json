@@ -1,0 +1,33 @@
+{
+  "name": "appc-sample-ti730",
+  "version": "1.0.0",
+  "description": "This app demonstrates the new features in Titanium SDK 7.3.0",
+  "main": "app/index.js",
+  "private": true,
+  "dependencies": {},
+  "devDependencies": {
+    "eslint": "^4.19.1",
+    "eslint-config-axway": "^2.0.14",
+    "eslint-plugin-alloy": "^1.0.0"
+  },
+  "scripts": {
+    "lint": "eslint app",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/appcelerator-developer-relations/appc-sample-ti720.git"
+  },
+  "keywords": [
+    "appcelerator",
+    "alloy",
+    "titanium",
+    "sample-app"
+  ],
+  "author": "Rene Pot",
+  "license": "SEE LICENSE IN \"LICENSE\"",
+  "bugs": {
+    "url": "https://github.com/appcelerator-developer-relations/appc-sample-ti730/issues"
+  },
+  "homepage": "https://github.com/appcelerator-developer-relations/appc-sample-ti730#readme"
+}

@@ -3,12 +3,12 @@
  */
 
 var homeindicatorHidden = false;
-function toggleIndicator(){
-  
-  // Inverse current status and set it to the current window 
-  homeindicatorHidden = !homeindicatorHidden;
-  $.getView().homeIndicatorAutoHidden = homeindicatorHidden;
-  
-  $.statusIndicator.text = homeindicatorHidden ? 'hidden' : 'visible';
-  
+function toggleIndicator() {
+
+	// Inverse current status and set it to the current window
+	homeindicatorHidden = !homeindicatorHidden;
+	$.getView().homeIndicatorAutoHidden = homeindicatorHidden;
+
+	$.statusIndicator.text = homeindicatorHidden ? 'hidden' : 'visible';
+
 }
