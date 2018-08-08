@@ -33,9 +33,16 @@ Besides the features above a lot of bugs were fixed too. Obiously, demonstrating
 There were also a bunch of improvements made which you can see a little bit further down on the releasenotes.
 
 ## Cross platform
-Next to iOS and Android specific features there is also a new feature for both iOS and Android. This is the  `zoomLevel` property for `Ti.UI.WebView`.  For this sample I've just added a `timeout` after opening the controller with the webview to demonstrate how it works. 
+Next to iOS and Android specific features there are also 2 new features for both iOS and Android. 
+
+
+### Zoomlevel
+ `zoomLevel` property for `Ti.UI.WebView`.  For this sample I've just added a `timeout` after opening the controller with the webview to demonstrate how it works. 
 
 Basically nothing more than `$.zoomable.zoomLevel = 2;` (or any other number you want obviously)
+
+### New error dialog
+Any error you trigger in the application used to have the "Red Screen of Death". This screen is now massively improved with stacktraces. I've made an error on purpose in the app, just run this sample app and click "Trigger an error" to see it. Obviously you need to have a dev build, not a production build, as those errors won't show up there.
 
 ## Linting
 

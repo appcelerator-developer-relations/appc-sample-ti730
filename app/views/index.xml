@@ -10,6 +10,7 @@
           <ListItem title="Notification Framework" controller="notificationframework" platform="ios" />
           <ListItem title="Masked Image" controller="maskedImage" platform="android" />
           <ListItem title="Webview Zoom" controller="webviewzoom"  />
+          <ListItem title="Trigger an error" controller="error"  />
         </ListSection>
       </ListView>
     </Window>
