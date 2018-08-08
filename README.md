@@ -24,6 +24,8 @@ There is only one Android specific feature displayed in this sample app, which i
 
 To experience and test with all MaskedImage properties, head over the the [Jira Ticket](https://jira.appcelerator.org/browse/TIMOB-17363) and download the sample app from there.
 
+Read the [docs](https://docs.appcelerator.com/platform/latest/#!/api/Titanium.UI.MaskedImage) for more information.
+
 ### More Android changes
 
 Besides the features above a lot of bugs were fixed too. Obiously, demonstrating this is kind of pointless, so here's the link to the issue list fixed. [Release notes](https://docs.appcelerator.com/platform/latest/#!/guide/Titanium_SDK_7.3.0.RC_Release_Note-section-src-56300461_TitaniumSDK7.3.0.RCReleaseNote-Androidplatform.1)
