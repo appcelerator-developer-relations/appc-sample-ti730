@@ -26,8 +26,11 @@ To experience and test with all MaskedImage properties, head over the the [Jira 
 
 Read the [docs](https://docs.appcelerator.com/platform/latest/#!/api/Titanium.UI.MaskedImage) for more information.
 
-### More Android changes
+**Foreground Services**
+Another new feature in Android is Foreground services. These allow services to be added to the foreground when apps are in the background. You can read about it in the [docs](https://docs.appcelerator.com/platform/latest/#!/api/Titanium.Android.Service-method-foregroundNotify). A sample app for this is coming later.
 
+
+### More Android changes
 Besides the features above a lot of bugs were fixed too. Obiously, demonstrating this is kind of pointless, so here's the link to the issue list fixed. [Release notes](https://docs.appcelerator.com/platform/latest/#!/guide/Titanium_SDK_7.3.0.RC_Release_Note-section-src-56300461_TitaniumSDK7.3.0.RCReleaseNote-Androidplatform.1)
 
 There were also a bunch of improvements made which you can see a little bit further down on the releasenotes.
