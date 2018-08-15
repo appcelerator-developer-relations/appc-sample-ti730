@@ -27,6 +27,7 @@ To experience and test with all MaskedImage properties, head over the the [Jira 
 Read the [docs](https://docs.appcelerator.com/platform/latest/#!/api/Titanium.UI.MaskedImage) for more information.
 
 **Foreground Services**
+
 Another new feature in Android is Foreground services. These allow services to be added to the foreground when apps are in the background. You can read about it in the [docs](https://docs.appcelerator.com/platform/latest/#!/api/Titanium.Android.Service-method-foregroundNotify). A sample app for this is coming later.
 
 
