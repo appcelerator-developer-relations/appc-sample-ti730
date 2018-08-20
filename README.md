@@ -1,6 +1,6 @@
 # Sample App for Titianum SDK 7.3.0
 
-This sample is for showing the newest features introduced in Axway Titanium SDK 7.3.0. Of course this is not everything introduced in 7.3.0. Check out the full list of features, bugfixes and improvements in the [releasenotes](https://docs.appcelerator.com/platform/latest/#!/guide/Titanium_SDK_7.3.0.RC_Release_Note). 
+This sample is for showing the newest features introduced in Axway Titanium SDK 7.3.0. Of course this is not everything introduced in 7.3.0. Check out the full list of features, bugfixes and improvements in the [releasenotes](https://docs.appcelerator.com/platform/latest/#!/guide/Titanium_SDK_7.3.0.GA_Release_Note). 
 
 ## iOS
 On iOS there are multiple new features that are great. 
@@ -15,7 +15,7 @@ Support for UserNotifications framework has also been added in 7.3.0. But this i
 
 ### More iOS changes
 
-Besides the features above a lot of bugs were fixed too. Obiously, demonstrating this is kind of pointless, so here's the link to the issue list fixed. [Release notes](https://docs.appcelerator.com/platform/latest/#!/guide/Titanium_SDK_7.3.0.RC_Release_Note-section-src-56300461_TitaniumSDK7.3.0.RCReleaseNote-iOSplatform.1)
+Besides the features above a lot of bugs were fixed too. Obiously, demonstrating this is kind of pointless, so here's the link to the issue list fixed. [Release notes](https://docs.appcelerator.com/platform/latest/#!/guide/Titanium_SDK_7.3.0.GA_Release_Note)
 
 There were also a bunch of improvements made which you can see a little bit further down on the releasenotes.
 
@@ -32,7 +32,7 @@ Another new feature in Android is Foreground services. These allow services to b
 
 
 ### More Android changes
-Besides the features above a lot of bugs were fixed too. Obiously, demonstrating this is kind of pointless, so here's the link to the issue list fixed. [Release notes](https://docs.appcelerator.com/platform/latest/#!/guide/Titanium_SDK_7.3.0.RC_Release_Note-section-src-56300461_TitaniumSDK7.3.0.RCReleaseNote-Androidplatform.1)
+Besides the features above a lot of bugs were fixed too. Obiously, demonstrating this is kind of pointless, so here's the link to the issue list fixed. [Release notes](https://docs.appcelerator.com/platform/latest/#!/guide/Titanium_SDK_7.3.0.GA_Release_Note)
 
 There were also a bunch of improvements made which you can see a little bit further down on the releasenotes.
 
