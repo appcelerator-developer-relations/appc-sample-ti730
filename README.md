@@ -1,6 +1,6 @@
 # Sample App for Titianum SDK 7.3.0
 
-This sample is for showing the newest features introduced in Axway Titanium SDK 7.3.0. Of course this is not everything introduced in 7.3.0. Check out the full list of features, bugfixes and improvements in the [releasenotes](https://docs.appcelerator.com/platform/latest/#!/guide/Titanium_SDK_7.3.0.GA_Release_Note). 
+This sample is for showing the newest features introduced in Axway Titanium SDK 7.3.0. Of course this is not everything introduced in 7.3.0. Check out the full list of features, bugfixes and improvements in the [release notes](https://docs.appcelerator.com/platform/latest/#!/guide/Titanium_SDK_7.3.0.GA_Release_Note). 
 
 ## iOS
 On iOS there are multiple new features that are great. 
